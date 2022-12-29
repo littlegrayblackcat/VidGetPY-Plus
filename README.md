@@ -5,8 +5,8 @@ An improved version of TheTopHat26's VidGetPY
 Requirements
 You need to run these commands in cmd for app to run properly:
 
-pip install pytube 
-pip install requests 
+pip install pytube, 
+pip install requests, 
 pip install os_sys 
 
 
